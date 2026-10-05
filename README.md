@@ -83,4 +83,6 @@ This is the v1 release, deliberately scoped for maximum impact with minimal comp
 
 ## 📜 License
 
-MIT License. See `LICENSE` for details.
+Copyright (c) 2026 Ujje421. All rights reserved.
+
+See `LICENSE` for details on permitted use.
